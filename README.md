@@ -2,7 +2,7 @@
 
 Reinforcement learning algorithms implemented to play SuperMario. Will be used as a practical baseline to compare different algorithms & techniques.
 
-### Dueling Double DQN with Prioritized Replay
+### DQN
 | Notes | GIFs |
 | --- | :---: |
 | <ins>**21-10-2020**</ins> <br> <ul><li>Vanilla DQN TESTED</ul> | **Epoch: 4298**<br> ![1-1-v0](https://github.com/nimishsantosh107/RL-SuperMarioBros/raw/master/videos/21-10-2020-1-1-v0.gif)|
